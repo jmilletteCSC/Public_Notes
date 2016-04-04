@@ -1,2 +1,2 @@
 # Public_Notes
-Notes on generic low-sensitivity stuff.
+Notes on generic stuff.
